@@ -21,13 +21,13 @@ As of April 2018, the management of REF changed to Research England, of whom are
 
 Grove identifies that 84% of UK institutions ranked were in the leading two quality profiles, with an overall of 76% in the leading two profiles, increasing overall sector GPA by 0.27 since 2014. Grove theorises that the increase in GPA is driven by universities focusing on research outputs, but is this is optimum system to measure research quality? 
 
-Sayer has criticised the REF method for falling short of international peer reviewing standards (Sayer, 2014).  
+In 2017, the first Teaching Excellence Framework (TEF) results were published in the UK. Announced by the minister for universities and science Jo Johnson, the new Teaching Excellence Framework would complement the established Research Excellence Framework (REF) in providing a range of information on institutional performance across the higher education sector (Gunn, 2018). 
 
-REF suffers from “bias or subjectivity” due to the evaluation process being skewed toward “research-intensive” universities (Pinar and Horne, 2022). However, any ranking of experiences will be inherently subjective, can this contemporary data issue be made fairer? 
+Institutions that take part in the TEF are rated into four degrees of excellence: Gold, Silver, Bronze, and Needs Improvement. The TEF states that Gold standard universities have outstanding student experience and outcomes. Silver standard universities typically have very high student experience and outcomes with some outstanding features while Bronze standard universities typically have high standards with some very high quality features. Where there is an absence of excellence, a TEF rating will not be awarded. The published outcome will signal that the provider ‘Requires Improvement’ to be awarded a TEF rating (Office for Students, 2023). 
 
-Other factors should be analysed such as research, teaching ad technology transfer (Gibari et al, 2018) as this gives a focus to the quality of teaching rather than subsequent research. 
+The stated aim of the TEF given by government officials was to provide consumers with information regarding teaching quality to allow prospective students to judge whether the course fees were in line with the delivery of the course being offered. The framework proved controversial from the beginning. Following the publication of the TEF2 results, many expressed doubts about the accuracy of the TEF as a measure of teaching quality and noted different outcomes for universities over further education colleges (Matthews, 2019). It could be argued that proving a replacement framework served as an excuse for governments to attempt to raise tuition fees for universities achieving exemplary status beyond the currently capped course admission. Furthermore, considering the different outcomes given for universities compared to higher education colleges, focus could be placed more on promoting traditional highly regarded universities such as those in the Russel group rather than cheaper or more accessible alternatives. 
 
-PCA is a multivariate analysis that converts multiple indicators into fewer comprehensive indicators. Firstly, the data is standardized, then a dependency matrix of indicators is set, then the eigenvalue and eigenvector of matrix r is found and the principal component expression is found, next the variance contribution rate is found to determine the number of principle components. ​(Xia, Wu, & Feng, 2019)​ 
+Institutions given a Gold rating include the University of Bath, University of Cambridge, Falmouth University and the University of the West of England, among others. The University of Plymouth achieved a Silver rating in June 2018. Despite the controversial views held on the TEF, the results show that it is useful in highlighting the top providers of higher education in the UK, with many of the results not being unexpected and proving that the system, although potentially flawed, serves as a benchmark for future rankings. 
 
  
 
@@ -51,8 +51,14 @@ The University of St Andrews (2014). Research quality | Current Staff | Universi
 
 Weinstein, N. and Wilsdon, J. (2018). Why we need a Real-Time REF Review to plan for 2027. [online] Wonkhe. Available at: https://wonkhe.com/blogs/why-we-need-a-real-time-ref-review-to-plan-for-2027/ [Accessed 12 Apr. 2023]. 
 
-Khosrobadi, S. Monfaredi raz, B. and Bahramzadeh, H. A survey for assessing university performance Available at: https://www.researchgate.net/publication/271068593_A_survey_for_assessing_university_performance
+Khosrobadi, S. Monfaredi raz, B. and Bahramzadeh, H. (2012). A survey for assessing university performance Available at: https://www.researchgate.net/publication/271068593_A_survey_for_assessing_university_performance
 
-Sarrico S, C. Rosa J, M. Teixeira N, P. and Cardoso F, M. Assessing quality and evaluating performance in Higher Education: Worlds Apart or Complementary Views? Available at: https://link.springer.com/article/10.1007/s11024-010-9142-2
+Sarrico S, C. Rosa J, M. Teixeira N, P. and Cardoso F, M. (2010). Assessing quality and evaluating performance in Higher Education: Worlds Apart or Complementary Views? Available at: https://link.springer.com/article/10.1007/s11024-010-9142-2
 
-Xia, Y. Wu, X. and Feng, H. Performance Evaluation of Universities and Colleges based on Method of Principal Component Analysis and Data Envelopment Analysis Available at: chrome-extension://efaidnbmnnnibpcajpcglclefindmkaj/https://www.scitepress.org/Papers/2019/77056/77056.pdf
+Xia, Y. Wu, X. and Feng, H. (2019). Performance Evaluation of Universities and Colleges based on Method of Principal Component Analysis and Data Envelopment Analysis Available at: chrome-extension://efaidnbmnnnibpcajpcglclefindmkaj/https://www.scitepress.org/Papers/2019/77056/77056.pdf
+
+Gunn, A. (2018). Metrics and methodologies for measuring teaching quality in higher education: developing the Teaching Excellence Framework (TEF) Available at: https://www.tandfonline.com/doi/abs/10.1080/00131911.2017.1410106
+
+Office for Students. About the TEF (2023). Available at: https://www.officeforstudents.org.uk/advice-and-guidance/teaching/about-the-tef/
+
+Matthews, A. and Kotzee, B. (2019). The rhetoric of the UK higher education Teaching Excellence Framework: a corpus-assisted discourse analysis of TEF2 provider statements Available at: https://www.tandfonline.com/doi/full/10.1080/00131911.2019.1666796
