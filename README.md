@@ -19,12 +19,10 @@ Additionally, a real time REF review pilot was conducted during the 2021 REF ass
 
 As of April 2018, the management of REF changed to Research England, of whom are part of UK Research and Innovation (UKRI) (Weinstein and Wilsdon, 2018). The same year, this management trialled a more formative approach to better understand the effect of the framework on institutions and individuals (Weinstein and Wilsdon, 2018). 
 
-Issues with REF 
-
-Output driven research skews data and statistical soundness  
-
 Grove identifies that 84% of UK institutions ranked were in the leading two quality profiles, with an overall of 76% in the leading two profiles, increasing overall sector GPA by 0.27 since 2014. Grove theorises that the increase in GPA is driven by universities focusing on research outputs, but is this is optimum system to measure research quality? 
+Graphical user interface, application, table, Excel
 
+Description automatically generated
 Graphical user interface, application, table, Excel
 
 Description automatically generatedThelwall et al found that 5 of 34 units of assessment have a weak tendency for higher scoring institutions to lose from fractional counting. 
