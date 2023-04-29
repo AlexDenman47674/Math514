@@ -58,6 +58,7 @@ As of April 2018, the management of REF changed to Research England, of whom are
 
 
 References:
+
 Council, F. (2013). Research Assessment Exercise 1996. [online] www.data.gov.uk. Available at: https://www.data.gov.uk/dataset/bca473d0-fb05-4e2b-9dfd-78e1ecafaaba/research-assessment-exercise-1996 [Accessed 10 Apr. 2023]. 
 
 McKay, S. (2017). Moving impact from 20% to 25% in REF. [online] rstudio-pubs-static.s3.amazonaws.com. Available at: https://rstudio-pubs-static.s3.amazonaws.com/305617_e2b4d3a880a648e3a19c9f5fc0185dab.html [Accessed 12 Apr. 2023]. 
