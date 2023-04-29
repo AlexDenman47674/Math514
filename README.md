@@ -50,3 +50,9 @@ The University of Sheffield (2022). What is REF? [online] www.sheffield.ac.uk. A
 The University of St Andrews (2014). Research quality | Current Staff | University of St Andrews. [online] www.st-andrews.ac.uk. Available at: https://www.st-andrews.ac.uk/staff/research/quality/ [Accessed 10 Apr. 2023]. 
 
 Weinstein, N. and Wilsdon, J. (2018). Why we need a Real-Time REF Review to plan for 2027. [online] Wonkhe. Available at: https://wonkhe.com/blogs/why-we-need-a-real-time-ref-review-to-plan-for-2027/ [Accessed 12 Apr. 2023]. 
+
+Khosrobadi, S. Monfaredi raz, B. and Bahramzadeh, H. A survey for assessing university performance Available at: https://www.researchgate.net/publication/271068593_A_survey_for_assessing_university_performance
+
+Sarrico S, C. Rosa J, M. Teixeira N, P. and Cardoso F, M. Assessing quality and evaluating performance in Higher Education: Worlds Apart or Complementary Views? Available at: https://link.springer.com/article/10.1007/s11024-010-9142-2
+
+Xia, Y. Wu, X. and Feng, H. Performance Evaluation of Universities and Colleges based on Method of Principal Component Analysis and Data Envelopment Analysis Available at: chrome-extension://efaidnbmnnnibpcajpcglclefindmkaj/https://www.scitepress.org/Papers/2019/77056/77056.pdf
