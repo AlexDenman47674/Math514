@@ -1,0 +1,143 @@
+---
+main_topsize: 0.12 #percent coverage of the poster
+main_bottomsize: 0.09
+title: '**Evaluation of University Performance**'
+author:
+  - name: '**Dan Allison**'
+    email: 'daniel.allison@students.plymouth.ac.uk'
+    main: true    
+  - name: '**Alex Denman**'
+    email: 'alexander.denman@students.plymouth.ac.uk'
+    main: true
+  - name: '**Megan Evans**'
+    email: 'megan.evans-16@postgrad.plymouth.ac.uk'
+    main: true
+  - name: '**Ashley Ford**'
+    email: 'ashley.ford@students.plymouth.ac.uk'
+    main: true
+font_family: "Tajawal"
+affiliation:
+  - address: 'MSc Data Science and Buisness Analytics'
+main_findings:
+  - "Evaluating University Performance: A Comparison between REF, RAE and TEF"
+logoleft_name: REFLogo.png
+logoright_name: TEFLogo.png
+logocenter_name: QRPosterCode.png
+output: 
+  posterdown::posterdown_betterport:
+    self_contained: false
+    pandoc_args: --mathjax
+    number_sections: false
+bibliography: packages.bib
+link-citations: true
+knit: pagedown::chrome_print
+---
+
+```{r, include=FALSE}
+knitr::opts_chunk$set(echo = FALSE,
+                      warning = FALSE,
+                      tidy = FALSE,
+                      message = FALSE,
+                      fig.align = 'center',
+                      out.width = "100%")
+options(knitr.table.format = "html") 
+```
+
+# Introduction
+
+In today's knowledge-based economy, universities play a crucial role in driving innovation, fostering research, and producing highly skilled graduates who contribute to the growth of society. Measuring and evaluating university performance is essential to ensure that they are fulfilling their missions effectively. We will discuss the Research Assessment Exercise (RAE) and Research Excellence Framework (REF), which are national assessments of university research quality in the UK. Additionally, we will examine the parameters potentially related to the quality of teaching and the student experience, such as graduates' earning power, career satisfaction, and broader societal contributions. The Teaching Excellence Framework (TEF) will also be discussed which is designed to incentivise excellence in teaching, learning, and student outcomes. By understanding the parameters, proxies, and approximations used to evaluate university performance, we can better assess the effectiveness of universities and identify areas for improvement.
+
+```{r, include=FALSE}
+knitr::write_bib(c('posterdown', 'rmarkdown','pagedown'), 'packages.bib')
+```
+
+# RAE and REF
+
+RAE was first undertaken in 1986, as a UK-wide peer review exercise run on behalf of the four UK higher education (HE) funding bodies (The University of Edinburgh, 2016). The parameters of the review framework can help in defining or classifying a property. Whereas, a proxy is a metric that is relevant to the property being measured but is not directly equivalent to the measurement of that property. Informed peer reviews are often critical of parameters and proxies; however, these assessments are subjective (Gaskell, 2023). 
+
+In 2014 REF was established, becoming the new system for assessing quality of research (The University of St Andrews, 2014). REF is conducted every 4 years and assesses 34 subject based units of assessment (REF, 2021b). The reviewing criteria then changed to three weighted elements, outputs (60%), impact (25%) and environment (15%) and is now graded from the levels unclassified to 4* (REF, 2021a). 
+
+
+
+
+<br>
+<br>
+<br>
+<br>
+
+## Aims of RAE and REF
+### RAE and REF have three main aims:
+
+1) Provide accountability for public investment in research and produce evidence of the benefits of this investment. 
+
+2) Provide benchmarking information and establish reputational yardsticks for use within the HE sector and for public information.
+
+3) To inform the selective allocation of funding for research (REF, 2021a).
+
+These aims provide reasoning for the selective allocation funding. 
+
+## Achievements of RAE and REF
+
+- 157 universities were assessed in 2021, an increase from 2014 (REF, 2021a). 
+- The proportion of submissions allocated to higher tiered grading levels increased from 2014 to 2021.  
+- Increasing proportions suggest an achievement of increasing quality submissions.  
+
+```{r, figure, fig.cap='Shows the percentage of each star classification for both 2014 and 2021', out.width="80%"}
+
+library(ggplot2)
+
+df <- data.frame(
+  Year = c("2014","2014","2014","2014","2021","2021","2021","2021"),
+  Percentage = c(30, 46, 20, 3, 41, 43, 14, 2),
+  Star = c("4*", "3*", "2*", "1*", "4*", "3*", "2*", "1*"))
+
+ggplot(data = df, aes(x = Star, y = Percentage, fill = Year)) +
+  geom_bar(stat = "identity", position = position_dodge()) +
+  scale_fill_manual(values = c("#054545", "#007C7D"))
+```
+
+## How RAE and REF have changed
+
+Key changes since the first RAE in 1986: 
+- Introduction of REF in 2014 
+- Alterations to the weighting of each assessed element 
+- Impact element increased from 20% to 25% weighting in 2014 (McKay, 2017) 
+- In 2021, a real time REF review pilot was conducted during the assessment to test the experiences of REF in real time (Weinstein and Wilsdon, 2018) 
+- REF was taken over by Research England in April 2018 (Weinstein and Wilsdon, 2018) 
+
+## Issues with RAE and REF
+
+### 1) Output driven research skews data and statistical soundness
+
+Grove (2022) found that 84% of UK ranked institutions were in the top two quality profiles, leading to an overall increase of 0.27 in sector GPA since 2014, which Grove suggests is due to universities focusing on research outputs. However, the question remains whether this is the optimal way to measure research quality.
+
+Thelwall et al (2021) discovered that in 5 out of 34 units of assessment, higher scoring institutions tended to lose out due to fractional counting.
+
+<br>
+
+### 2) Lack of peer review  
+
+Sayer has criticised the REF method for falling short of international peer reviewing standards (Sayer, 2014). REF suffers from “bias or subjectivity” due to the evaluation process being skewed toward “research-intensive” universities (Pinar and Horne, 2022). However, any ranking of experiences will be inherently subjective - can this contemporary data issue be made fairer? 
+
+# TEF
+TEF was launched in 2017 with the aim of providing information on institutional performance in the HE sector. The framework uses four categories: Gold, Silver, Bronze, and Needs Improvement, to indicate the quality of an institution's teaching. However, TEF was controversial from the beginning, with doubts about its accuracy, and different outcomes for universities and further education colleges. Despite this, TEF has successfully identified top institutions in the UK, serving as a benchmark for future rankings.
+
+```{r, figure2, fig.cap='Shows the proportion of TEF classifications within Universities in 2021', out.width="80%"}
+values <- c(61, 132, 81, 48)
+labels <- c("Bronze", "Silver", "Gold", "Needs Improvement")
+
+pie(values, labels = labels, col = c("#054545", "#005353", "#006E6F", "#007C7D"), 
+    border = "white", main = "TEF University classifications 2021")
+```
+
+## Issues with TEF
+Creates a competitive environment amongst universities competing for funding allocation. 
+The main aim of the framework has been lost to the pressure to perform well within the review rather than improve the quality of teaching.
+Legislation is calling for a new and improved framework to re-evaluate its purpose.
+The framework presents a lack of consideration for the relationship of teaching and research. 
+
+# Conclusion
+Due to the subjectivity of this topic we conclude that REF and TEF are only partly effective. These methods have been largely taken away from the true task of evaluating institutional performance and are now instead focused upon funding allocation rather than teaching quality. Perhaps a new framework should be implemented to separate the allocation of funding and the review of teaching, therefore reducing the effect of skewing results due the competitiveness of receiving funding.  
+
+# References
+Full references are included in the GitHub linked to the QR code below.
