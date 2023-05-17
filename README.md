@@ -37,6 +37,14 @@ The stated aim of the TEF given by government officials was to provide consumers
 
 Institutions given a Gold rating include the University of Bath, University of Cambridge, Falmouth University and the University of the West of England, among others. The University of Plymouth achieved a Silver rating in June 2018. Despite the controversial views held on the TEF, the results show that it is useful in highlighting the top providers of higher education in the UK, with many of the results not being unexpected and proving that the system, although potentially flawed, serves as a benchmark for future rankings.
 
+Conclusions: 
+
+Due to the nature of the subjectivity of this topic we can conclude that REF and TEF are only partly effective methods of evaluating university performance.  
+
+These methods have been largely taken away from the true task of evaluating university performance and are now instead focused upon the allocation of research rather than how effective the institution is.  
+
+Perhaps a new framework should be implemented to separate the allocation of funding and the review of teaching. This would separate the funding allocation and the purpose of reviewing teaching quality. Reducing the effect of skewing results due the competitiveness of receiving funding.  
+
  
 
 References:
