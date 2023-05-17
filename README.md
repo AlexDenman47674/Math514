@@ -2,8 +2,11 @@
 Evaluation of University Performance: REF, REA and TEF
 
 Dan Allison
+
 Ashley Ford
+
 Megan Hannah Evans
+
 Alex Denman
 
 In today's knowledge-based economy, universities play a crucial role in driving innovation, fostering research, and producing highly skilled graduates who contribute to the growth of society. Measuring and evaluating university performance is essential to ensure that they are fulfilling their missions effectively. We will discuss the Research Assessment Exercise (RAE) and the Research Excellence Framework (REF), which are national assessments of university research quality in the UK. Additionally, we will examine the parameters related to the quality of teaching and the student experience, such as graduates' earning power, career satisfaction, and broader societal contributions. The Teaching Excellence Framework (TEF) will also be discussed which is designed to incentivise excellence in teaching, learning, and student outcomes. By understanding the parameters, proxies, and approximations used to evaluate university performance, we can better assess the effectiveness of universities and identify areas for improvement.
